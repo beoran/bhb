@@ -1,12 +1,12 @@
-Broken Hearts Batte, a lowpoly 3D fighting game and homage to Katawa Shoujo
-==========================================================================
+Broken Hearts Battle, a lowpoly 3D fighting game and homage to Katawa Shoujo
+===========================================================================
 
 Introduction
 ------------
 
-Broken Hearts Batte intends to become a free, open source lowpoly 3D fighting
+Broken Hearts Battle intends to become a free, open source lowpoly 3D fighting
 game which feels somewhat like "Rival Schools", and is a homage to the visual
-novel Katawa Shoujo. The models will be made in Blender 2.6 or later. The
+novel Katawa Shoujo (KS). The models will be made in Blender 2.6 or later. The
 first version of the game will be programmed using the Blender Game Engine in
 Python, so it will be portable to Windows, Linux and OS X.
 
@@ -14,8 +14,11 @@ Nothing much is there yet, but poke around in the various .blend files
 using Blender to see what's going on.
 
 The idea is based on a thread I saw somewhere on the forum, and as well on the
-KS fighting game, but this games attepts to be distinct by altering the
-settings.
+KS fighting game, but this games attepts to innovate by introducing new a
+setting and characters. The personality of the characters from Broken Hearts
+Battle are intended to be "dark reflections" of those in KS. This is the
+way in with homage is given to KS. Their look and feel however, will be
+significantly different.
 
 Gameplay
 --------
@@ -25,7 +28,7 @@ The game will use lowpoly 3d graphics, but with the fighting mostly on a
 projectiles, but they are mostly annoyances, not hadokens! There will also be
 no time-outs and no ring. Health is only restored after every duel, every fighter
 has several (2, 3, 4) health bars that get depleted one by one, and they act
-to divide the combat stead of rounds.
+to divide the combat into "rounds". 
 
 Every fighter also has a Rage/Focus bar that shifts between one of these two depending on play style. Button mashing moves ytyou to Rage, careful attacks
 to Focus. Once either Rage or Focus is maxed, different special and super
@@ -266,38 +269,7 @@ License of the source code, art and program: the zlib license.
 
 Credits
 -------
-
+4leaf studios, for Katawa Shoujo. http://ks.renai.us/
 Idea from KS forums, by many, many people. I wouln't have started this
 otherwise. Placeholder art comes from paintown, opensourcegameart.org,
 and the KS forums. Ask about them and I'll credit you here however you like.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
