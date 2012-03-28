@@ -13,12 +13,8 @@ Python, so it will be portable to Windows, Linux and OS X.
 Nothing much is there yet, but poke around in the various .blend files
 using Blender to see what's going on.
 
-The idea is based on a thread I saw somewhere on the forum, and as well on the
-KS fighting game, but this games attepts to innovate by introducing new a
-setting and characters. The personality of the characters from Broken Hearts
-Battle are intended to be "dark reflections" of those in KS. This is the
-way in with homage is given to KS. Their look and feel however, will be
-significantly different.
+After the I decided to scrap the initial "delinqient school" idea, I starteed thinking on the concept of "Fan Game". Then I decided tha in this fighting game,
+the FANS of Katawa Shouyou will be the main characters.
 
 Gameplay
 --------
@@ -41,7 +37,6 @@ Help needed
 -----------
 
 *) Native english writer to clean up the story.
-*) Someone born and living in England for cultural and educational checking.
 *) Artists for concept art and portraits.
 *) Blender modellers. I will also model.
 *) Suggestions for improving the setting and fleshing out the characters
@@ -49,202 +44,53 @@ and their fighting styles are always welcome.
 *) Beoran will do the programming, but help with programming is welcome too.
 
 
-Setting
--------
-
-Broken High is a private charitable high school somewhere in a remote
-countryside location in England that aims to give "problem youths" a second
-chance in life. Unlike most schools of it's kind, it does not take a 
-repressive approach, but tries to reintegrate and prepare the pupils for life
-in society, not for a life in prison. 
-
-The schools started out as a normal boarding school for the upper crust. 
-However, under the guidance of the current director, the school decided to
-also care for those problem youths that would be sent away from other such
-upper class institutes. Outwardly, the school keeps up appearances to avoid
-scandal.
-
-However, in upper class circles, even internationally, the school
-is well known as a place to send "black sheep" children to have them
-"sorted out". Those pupils form the majority of the school's population,
-and contribute to the school's ample funding. It's rumoured that even the royal
-family made use of Broken High's facilities a decade ago.
-
-Be that as it may, coincidentally or not, since about ten years ago, the school
-is protected by a special, hushed-up act of parliament. However, due to
-political wrangling, this act compelled the school to reform as a charity,
-and mandated that a quorum of promising "problem children" or even "normal"
-children from middle and lower income families should be allowed, and
-that their their tuition fees must be lessened or waived.
-
-Due to the rather liberal attitude, the schools allows the pupils to keep
-rebellious hair or looks, as long as they follow the improtant rules. Respect
-the law, we act like a family, nothing harmful on the school grounds. The school
-is mixed, and actually has more girls than boys. Romance is allowed but sexual
-relationships are discouraged.
-
-During holidays, those who are able to do so are allowed to visit their
-families. During school hours, pupils may freely use most of the school's
-facilities. After school hours and in week ends, the pupils may wander freely
-into the nearby village or even visit the city by bus. The residents of the
-vilage are simetimes annoyed at the pupil's shennenigans, but the villagers
-help keep the "secret" of Broken High because the school is practically all
-there is left of the the local economy.
-
-Of course it's not all freedom and fun and games. Pupils must keep up with their
-studies, and pass their tests. Many special measures are taken, mostly to keep
-bad influences out of the school. Pupils are required to stay in the dorms after
-curfew, and their presence is electronically checked with chip badges. Rexina,
-the guard dog keeps close watch, and sniffs out any alcohol or drugs brought
-into school.
-
-To avoid influence from bad friends, cell phones are not allowed and actively
-jammed, both pupils and teachers must use the school's fixed phones. There are
-also surveillance cameras in public areas to record any problems. The school is
-fenced, and the main gate also closes and locks at night. All these security
-features are controlled through a special control room near the director's
-office.
-
-Although some pupils feel resentful, and make a difficult start most end up
-taking the chance offered seriously and and try to make the best of it. And
-although they'd be loathe to admit it, many of them are glad to be there,
-and even proud of the school and it's teachers. 
-
 Story
 -----
 
-One warm fall in 20XX, Henri, a new pupil joined the last grade in Broken High
-after a knife was found in his satchel in his old school... but he claims it
-was a present for his mother's birthday. Nevertheless, to prove he is sincere,
-he is determined to graduate from in Broken High. Although new, soon Henri
-proved to be popular in his own way, and he was soon, apart from a few
-exceptions, well liked by his peers. Even Chris, the boy who was seen as an
-outcast amongst outcasts got along with him. 
+Katawas Shoujo is Visual novel that had become very popular within a certain
+demography. People from all over the world flocked to the online forums of the
+game to discuss it, and share their feelings and life stories.
 
-But during the fall holiday, when the director, many of the staff and pupils 
-were away, Henri and Chris suddenly disappeared. Then the next morning, someone
-had broken in to the control room of the school and barrricaded himself there. 
-The gates of the school were closed, the phone connections broken, internet 
-down.
+One morning, a worrying message entitled "Stop Katawa Shoujo" appeared.
+"I have abducted one of the members of Four Leaf Studios. If Kantawa Shoujo and
+the forums are not taken offline in one month, you will never see him again."
+At first, the message was thought to be a joke, but then it turned out that one
+of the staff had disappeared for real, when a recordings of the member's voice
+as well of his abductor'd demands was distributed to the media.
 
-A mysterous voice over the PA claimed to have abducted Henri, and threatened
-to kill him unless the demands were met. No police, no contact with the outside 
-world. The pupils must fight each other until KO, and only the strongest will be 
-allowed to fight for the life of Henri. Reluctantly, the remaining staff
-decide to meet the demands and allow the tournament to begin, until help 
-can somehow be called. 
+Some of the most ardent fans fans of Katawa Shoujo, appalled at this,
+resolved to do whatever it takes, legal or not, to find and rescue the Four Leaf
+Studio's member. Notwanting to trust the police, decided to join in real life
+and find out what really happened. The nerds hacked away and were able to
+pinpoint the area where the abductor must be living. Form all over the world,
+the fans flocked to this place to find out the truth.
 
-But what hidden conflicts will come to surface once the fighing starts, and are 
-the pupils really willing to fight for one of their pers? Thus begins the 
-Broken Hearts Battle!
+But suspicion is growing that it may very wel be one of the fans who is
+responsible for this. And the fans themselves have their own difficult pasts,
+and social anxieties, and wimpy physiques to deal with. Can they overcome their
+differences, and their own problems and find out the truth?
 
 
 Characters
 ----------
 
-* Henri
-Gender: Male.
-Hair: Blonde, shaven.
-Eyes: Brown.
-Crimes: Carrying a knife.
-Personality: Friendly, intelligent and determined, but somewhat shocked and
-annoyed at having to spend his last hear in Broken High. 
-History: A normal high school boy who was caugt with a knife in his satchel.
-Was sent to Broken High by his parents when the police suggested this option.
-
 * Rose
 Gender: Female.
 Hair: Red long hair.
 Eyes: Green.
-Crimes: Petty arson and pyromania.
-Personality: Is normally very quiet and shy, but when provoked, will burst out 
-in anger. Seems to feel guilty for her past. Is fascinated by fire.
-History: Left her foster family and came to Broken High voluntarily when she
-found out about it after after her antics with fire got her into hot water.
-Seems to have a dark past.
-Friends: Yuri seems to be the only one who she can get along at times, although
-Rose can get annoyed at times at Yuri's meddling.
-
-* Yuri (幸理)
-Gender: Female
-Hair: Black.
-Eyes: Black.
-Crimes: Shoplifting and kleptomania.
-Personality: Fancies herself as someone who looks out for others, but is often
-seen as someone who meddles where she shouldn't.
-History: The daugher of a wealthy Japanese industrial. Already at 15, she had
-been caught stealing from shops all over Tokyo, which cause so much embarassment 
-for her father's reputation, that she was shipped off to Broken High to 
-straighten her out. Still has a few problems speaking the local language.
-Friends: Pretends to get along well with everybody, but only Rose actualy 
-accepts her as a friend, at least most of the time.
-
-* Ellen
-Gender: Female.
-Hair: Short, wild, brown with blonde and blue meshes.
-Eyes: Green.
-Crimes: Underage driving and drinking, joyriding.
-Personality: Fun loving girl, but has no eye for the future.
-History: Upper class background. When the car she was joyriding crashed,
-she came out unscathed, but had to come to Broken High to avoid repercussions.
-Friends: Enjoys the calm mood around Romi.
-
-* Romi
-Gender: Female.
-Hair: Messy long brown hair.
-Eyes: Blue.
-Crimes: Drug abuse and dealing.
-Personality: Perhaps it's due to her former drug abuse, but she's clearly out 
-of touch with the world around her. But she's calm and amiable.
-History: From a normal family, started dealing to support her own addiction.
-Came to Boken High to kick off when she was caught, buts still struggles at 
-times to stay clean.
-Friends: Romi feels enlivenedend by the antics of Ellen.
+Favourite KS character: Hanako
+Personality: Shy girl who loves card games. Flew in from England to
+help with the investigation. 
 
 
-* Shelly
-Gender: Female.
-Hair: Short, dyed green.
-Eyes: Brown.
-Crimes: Assault and harassment.
-Personality: Bossy, overbearing, and likes to push other people around.
-Hstory: A school bully who managed to go undetected until caught beating up a
-boy so badly he landed in hospital. Expelled, had to come to Broken High
-to avoid  a scandal.
-Friends: Only Maria is willing to hang out with her.
-
-* Maria
-Gender: Female.
-Hair: Blonde.
-Crimes: None. 
-Eyes: Blue.
-Personality: Complying and meek to a fault.
-History: Childhood friend of Shelly, always stuck with her no matter how bad
-she bullied her. Came to Broken High just to be with her friend, even when her
-parents discouraged her.
-Friends: Shelly, since childhood. 
-
-* Chris
-Gender: Male
-Hair: Black.
-Eyes: Brown.
-Crimes: Breaking and entering.
-Personality: Outcast amonst outcasts. Intelligent but always seems to be brooding
-on plans for world domination. 
-History: Caught breaking and entering in a government building. Nothig much else
-is known.
-Friends: Only Henri, as of lately.
-
-* XXXX
-The perpetrator of the abductions. Seems to be closely related to the school
-somehow.
+Insert yourself here, or your own imagined KS fan alter ego! :)
 
 
 License
 -------
 License of the source code, art and program: the zlib license.
 
-  ksf -- Katawa Shoujo Fighter
+  bhb -- Broken Hearts Battle
 
   Version 0.0 2012-03-27
 
